@@ -4,4 +4,4 @@ This HTML code creates a webpage about paradoxes. It includes text explaining wh
 
 
 Here's a screenshot of the webpage:
-![Screenshot 2024-02-07 105212](https://github.com/Wespy07/Paradoxes/assets/143990246/33548ead-f1ca-438b-96f1-7a3c5f349b99)
+![Screenshot 2024-02-08 104507](https://github.com/Wespy07/Paradoxes/assets/143990246/6e5c93cb-fa70-432d-8cb7-5a63cf3a1176)
